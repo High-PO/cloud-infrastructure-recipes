@@ -1,2 +1,2 @@
 # cloud-infrastructure-recipes
-handling for terraform standard for aws
+케이스별 테라폼 케이스를 다룹니다.
